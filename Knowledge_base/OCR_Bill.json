@@ -1,0 +1,16 @@
+{
+    "patient_id": "av_62323820",
+    "patient_name": "94822",
+    "admission_date": "29/04/2021",
+    "discharge_date": "",
+    "provider_name": "Dr Sanjiv Bhardwaj",
+    "procedure": "TOTAL LAPAROSCOPIC HYSTERECTOMY + BILATERAL SALPINGECTOMY + RIGHT OOPHORECTOMY WAS DONE UNDER GA ON 30.04.2021.",
+    "billed_amount": "1279,59.84",
+    "insurance_paid": "",
+    "out_of_pocket_cost": ".84",
+    "diagnosis": "ham vam",
+    "diagnosis_codes": "N76.1",
+    "medical_history": "h",
+    "referral_information": "self",
+    "target": "e"
+}

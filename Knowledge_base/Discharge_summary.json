@@ -1,0 +1,107 @@
+{
+    "data": {
+        "hospital_name": "JAYPEE HOSPITAL LIFE FIRS AYPEE",
+        "hospital_address": "Office laypee Healthcare Ltd. Wish Town Sector -",
+        "hospital_pincode": "",
+        "hospital_state": "",
+        "hospital_city": "",
+        "hospital_phone": "1204122222",
+        "hospital_email": "",
+        "hospital_website": "",
+        "name": "Mr. RAVI SACHDEVA",
+        "age": "50",
+        "sex": "MALE",
+        "dob": "",
+        "phone_number": "",
+        "address": "2025 SEC-37 GAUTAM BUDDHA NAGAR UTTAR PRADESH INDIA",
+        "ward_type": "6071-DELUXE",
+        "bed_no": "",
+        "admitted_date": "03/07/2018",
+        "discharged_date": "12/07/2018",
+        "disch_summ_date": "",
+        "bp": "",
+        "pulse": "",
+        "temp": "",
+        "spo2": "",
+        "consultant_name": "Dr Sanjiv Bhardwaj",
+        "speciality": "",
+        "presenting_complaints": "Mr. RAVI SACHDEVA 50 years old gentleman was admitted at Kailash hospital with complaint of chest discomfort and uncasiness at 8:30 AM in morning on 03/07/2018. He  ",
+        "diagnosis": "CADACS - Acute ST elevation (Extensive) Anterior wall MI with Cardiogenic shock Cardiac Arrest,Post CPR Survivor Recurrent Primary VT CAG Single Vessel Disease (03/07/2018) Primary PCI to LAD (SYNERGY 3.0 x 20 mm stent, on 03/07/2018 ) Severe LV dysfunction(L.VEF = 25-30%)  ",
+        "cause_of_death": "  ",
+        "clinical_examination": "  Respiratory Rate Murmur No murmur Pedal Edema Not JVP Not Raised Bilateral air entry equal Liver Not Spleen: Not Akinetic mid anterior septum, mid IVS, apex, mid anterior wall. Borderline LVH present. abnormality present. 4 Mild MR. Trace TR, Normal PASP. collapsing < 50% 6. No LV clot,",
+        "investigation": "  ",
+        "past_history": "  ",
+        "family_history": "  ",
+        "course_in_hospital": "had recurrent VT there for which CPR was done. Patient was intubated and put on ventilator & ITSA /cd here and admitted here for further evaluation and management  admitted in the emergency with above complaints, all necessary revealed investigations were Vessel Single 3.0x20 mm) was tappered done off on and done After taking written Findings were informed consent attendant and PCI to LAD done was to assess the patient was taken for urgent advised neuological status of the patient Primary PTCA - Stent to LAD Gradually (03.07.2018) which (SYNERGY inotropes were and was discussed with the levels and deranged LFT reports, pt Haemato-oncology was and Gastro weaned off from the ventilatory support consultations were taken",
+        "procedure_or_treatment": "Surgery Date CORONARY ANGIOGRAPHY - PACKAGE PROCEDURE Jul 3. 2018  S/o acute ST Extensive AWMI",
+        "medication_or_prescription": " Ecosprin Brilinta 90 75 rug mg twice daily once daily after dinner Cap. Tab fab. Refresh lab rub ab Aztor Dyton Carea Aldactone Ganaton Udiliv Pregaba Ultracet eye 10 20 3.125 300 drop mg M 50 mg 25 mg mg four mg twice 75 once mg twice twice mg twice times once daily daily daily daily daily at daily 8 10pm am, at 5 2pm 0 pm 1-1.2",
+        "condition_at_discharge": "  Angina free, no",
+        "condition": "  ",
+        "advice": "  ",
+        "discharge_advice": " LIFE FIRST once daily at night 1 tab thrice daily for pain for 3 days then SOS Syn. Zyloo Volim Syp. Alex Cremaffin ointment gel 2 for tsf local thrice for 2 tsl local application twice daily application datly for one on for chest week contribution in mouth as tolerated ",
+        "plan_on_discharge": " Review in Cardiology OPD with Dr. Sanjiv Bhardway after 7 days with prior appointment in case you want to take ",
+        "emergency_plan_of_care": " Pending Reports-Kindly bring In case of Emergency, Please Contact Casualty 1 Fever of 101AA°F 2. Onset of new pain or worsening of previous pain. 3. Vomiting. 4. Breathing difficulty 5. Altered level of consciousness 6. Discharge from the operative wound. 7. Worsening of any symptoms. 8. Other significant concerns. ",
+        "drug_chart": "  ",
+        "ot_notes": "  ",
+        "death_summary": "No No No",
+        "date_of_death": "  ",
+        "time_of_death": "  ",
+        "past_diseases": null,
+        "past_duration": null,
+        "diagnosis_complain_relation": {
+            "related_diagnosis": [],
+            "confidence": []
+        },
+        "diagnosis_complain_match": "unmatched",
+        "pcs_data": [
+            [
+                "angiography",
+                "0W0F"
+            ],
+            [
+                "angiorrhaphy",
+                "0WQF"
+            ],
+            [
+                "mr angiography",
+                "0W0F"
+            ],
+            [
+                "lymphangiorrhaphy",
+                "0WQF"
+            ],
+            [
+                "left coronary sulcus",
+                ""
+            ],
+            [
+                "repair vein coronary",
+                ""
+            ],
+            [
+                "chemosurgery, skin",
+                ""
+            ],
+            [
+                "release vein coronary",
+                ""
+            ],
+            [
+                "right coronary sulcus",
+                ""
+            ],
+            [
+                "coronary arteriography",
+                ""
+            ]
+        ],
+        "pcs_matched": {
+            "procedure_or_treatment": "angiography",
+            "code": "0W0F"
+        },
+        "num_of_lines": 37
+    },
+    "message": "No DPI found in image!! ",
+    "status": "success",
+    "dpi": 0
+}

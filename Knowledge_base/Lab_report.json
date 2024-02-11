@@ -1,0 +1,109 @@
+{
+    "data": {
+        "demographics_part": {
+            "name": "Mr. Ravi Sachdeva",
+            "date": "21/08/2023",
+            "sex": "Male",
+            "age": 55,
+            "lab_no": null,
+            "test_center_pincode": "201301",
+            "address": "NH-1. Sector 29, Noida-201 301 (U.P.)",
+            "lab_name": "Bhardwaj Nursing & Maternity Home Pvt.Ltd.",
+            "ref_doctor": "Dr. Sanjiv Bhardwaj",
+            "lab_state": "Uttar Pradesh",
+            "lab_city": "Noida"
+        },
+        "risk_part": {},
+        "diagnostic_centre_name": "Bhardwaj Nursing & Maternity Home Pvt.Ltd.",
+        "tests_part": {
+            "3b4e4d45ff7149ac87470ddddf272641230001377179_docs_page-0004bf7c902f52b9469181d78b22f84bb361.pdf": {
+                "unassigned_tests": {
+                    "unassigned_0": {
+                        "value": 2.6,
+                        "report_test_name": "AO(ed)",
+                        "units": "cm/m2",
+                        "range": {
+                            "min": 1.5,
+                            "max": "NA"
+                        },
+                        "risk": "High",
+                        "recheck": false
+                    },
+                    "unassigned_1": {
+                        "value": 1.1,
+                        "report_test_name": "IVS(ed)",
+                        "units": "cm",
+                        "range": {
+                            "min": 0.6,
+                            "max": 1.2
+                        },
+                        "risk": "Normal",
+                        "recheck": false
+                    },
+                    "unassigned_2": {
+                        "value": 3.4,
+                        "report_test_name": "LA(es)",
+                        "units": "cm/m2",
+                        "range": {
+                            "min": 1.5,
+                            "max": "NA"
+                        },
+                        "risk": "High",
+                        "recheck": false
+                    },
+                    "unassigned_3": {
+                        "value": 1.1,
+                        "report_test_name": "LVPW(ed)",
+                        "units": "cm",
+                        "range": {
+                            "min": 0.6,
+                            "max": 1.2
+                        },
+                        "risk": "Normal",
+                        "recheck": false
+                    },
+                    "unassigned_4": {
+                        "value": "Normal",
+                        "report_test_name": "RVID(ed)",
+                        "units": "cm/m2",
+                        "range": "NA",
+                        "risk": "Normal",
+                        "recheck": false
+                    },
+                    "unassigned_5": {
+                        "value": 55.0,
+                        "report_test_name": "LVEF",
+                        "units": "%",
+                        "range": {
+                            "min": 0.62,
+                            "max": 0.85
+                        },
+                        "risk": "Normal",
+                        "recheck": false
+                    },
+                    "unassigned_6": {
+                        "value": 4.6,
+                        "report_test_name": "LVID(ed)",
+                        "units": "cm",
+                        "range": {
+                            "min": 3.3,
+                            "max": "NA"
+                        },
+                        "risk": "High",
+                        "recheck": false
+                    }
+                }
+            }
+        },
+        "file_details": {
+            "file_creation_date": null,
+            "file_modified_date": null,
+            "is_the_file_modified": null,
+            "file_type": "scanned"
+        }
+    },
+    "message": "No DPI found in image!! ",
+    "status": "success",
+    "dpi": 0,
+    "id": 0
+}
